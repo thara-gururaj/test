@@ -1,1 +1,2 @@
 Hello Thara Welcome to Git
+First creation of git repository!
