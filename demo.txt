@@ -1,2 +1,3 @@
 Hello Thara Welcome to Git
 First creation of git repository!
+day 3 changes
